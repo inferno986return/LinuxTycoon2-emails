@@ -346,3 +346,45 @@ quickly.  More to follow shortly, you crazy, crazy dudes & dudettes.
 this work.  Seriously.  Meant a lot.)
 
 >-Bryan Lunduke
+
+# Linux Tycoon 2 - awesome news
+### 8 April 2019
+
+>Ah, what a long, winding, tangled road Linux Tycoon 2 has taken!
+
+>Some of you got your boxes.  Others had to wait a crazy long time (which
+I'm not happy about).
+
+>But here we are, at the end of May, 2019, and I have some rather
+fantastic (and relieving) news to share.  This news is the result of
+months of work behind the scenes -- and far too many lawyers involved. 
+Luckily the result is good.  At some point I hope to be able to share
+some of the details of the story -- namely the company involved -- but,
+for now, I'll have to be satisfied that the result is better than it
+could have been.
+
+>Here's what's happening:
+
+>1) Every single one of you (even those that have already received their
+boxed copy of Linux Tycoon 2) will be getting a full refund, courtesy of
+said anonymous company, on July 1st.  (Which is the day they'll be
+compensating me for lost sales due to their legal action against the
+game, and I'll be passing that on to all of you.)
+
+>2) Those of you that already have the boxed edition... keep it!  It'll
+be a collectors item!  :)
+
+>3) On July 1st I will be releasing the digital version of the game (with
+all the code)... simply for free for everyone.
+
+>I'd like to do it all before July 1st, but that's part of the deal
+struck.  That's the day and I don't have any control over it.  You'll
+note that I also will not be putting the game up for sale again -- that
+is also part of the deal that we struck.  The game will be both Free and
+free.
+
+>That's the basics.  My apologies for the incredibly lengthy delay. 
+There's nothing you need to do to get the refund -- you'll get a
+confirmation email about it on July 1st.
+
+>-Bryan Lunduke
