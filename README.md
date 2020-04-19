@@ -1,10 +1,12 @@
 *This paste uses [Markdown](https://en.wikipedia.org/wiki/Markdown). I recommend doing a copy+paste into a Markdown editor for the best reading experience.*
 
-So it's been a while since I heard from Bryan Lunduke regarding Linux Tycoon, so here's each e-mail sent to customers. Right until 29th August 2018, at which point I received no more.
+So it's been a while since I heard from Bryan Lunduke regarding Linux Tycoon, so here's each e-mail sent to customers. Right until 8th April 2019, at which point I received no more.
 
 Let's start from the top, shall we? So I purchased a copy off the [Linux Tycoon website](http://www.linuxtycoon.com/) for $50. I had missed out on the first game and it wouldn't compile when tried [downloading the code](https://github.com/BryanLunduke/Linux-Tycoon) and putting into Xojo.
 
 Judging by these e-mails the game is perhaps still stuck under legal red tape. Particularly in the realm of free software, it seems companies can be fiercely protective of their trademarks.
+
+However as of 19th April 2020 the Linux Tycoon website has not been updated nor did I receive my refund. I wonder if there's something sinister at play?
 
 ## Lunduke-y Goodies!
 ### 15 Apr 2018
